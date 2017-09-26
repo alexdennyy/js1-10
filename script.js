@@ -1,4 +1,8 @@
 //write first method
+/* Alex Denny
+   Javascript problems 1-10
+   9/26/2017
+ */
 function sleepIn(weekday, vac) {
     if(weekday == false){
         var sleep = true;
